@@ -1,0 +1,406 @@
+{
+    "It": {
+        "constructions": [
+            "FP + P/Aux + OBJ",
+            "FP + P/Aux + not + OBJ",
+            "P/Aux + FP + OBJ?"
+        ],
+        "practices": [
+            "It is a knife.",
+            "It is not flower.",
+            "It is not John.",
+            "Is it a flower?",
+            "Are they flowers?",
+            "Is it John?"
+        ]
+    },
+    "What is it?": {
+        "constructions": [
+            "PI + P/Aux + FP?",
+            "FP + P/Aux + OBJ",
+            "Señal + OBJ + PB + PA?"
+        ],
+        "practices": [
+            "What are they?",
+            "They are dogs.",
+            "What is it?",
+            "It is a car.",
+            "Does the child have to sleep?",
+            "Yes, it has to sleep.",
+            "Do you need the car?",
+            "Yes, i need it."
+        ]
+    },
+    "Where": {
+        "constructions": [
+        ],
+        "practices": [
+            {
+                "line": "Where do you live?",
+                "type": "q"
+            },
+            {
+                "line": "I am living on Santiago.",
+                "type": "r"
+            },
+            {
+                "line": "Where do you have to practice the dance?",
+                "type": "q"
+            },
+            {
+                "line": "In my dance school.",
+                "type": "r"
+            },
+            {
+                "line": "Where is the party?",
+                "type": "q"
+            },
+            {
+                "line": "The party is in my house.",
+                "type": "r"
+            },
+            {
+                "line": "Where must she dance?",
+                "type": "q"
+            },
+            {
+                "line": "She must dance in the party.",
+                "type": "r"
+            }
+        ]
+    },
+    "When": {
+        "constructions": [
+            
+        ],
+        "practices": [
+            {
+                "line": "When do you go to home?",
+                "type": "q"
+            },
+            {
+                "line": "I go to home tonight.",
+                "type": "r"
+            },
+            {
+                "line": "When can you practice the dance? ",
+                "type": "q"
+            },
+            {
+                "line": "I can practice tomorrow.",
+                "type": "r"
+            },
+            {
+                "line": "When must i arrive at the party?",
+                "type": "q"
+            },
+            {
+                "line": "At 22 o'clock.",
+                "type": "r"
+            },
+            {
+                "line": "When will he travel to France?",
+                "type": "q"
+            },
+            {
+                "line": "He will travel in March.",
+                "type": "r"
+            }
+        ]
+    },
+    "How": {
+        "constructions": [
+            "PI + Señal + FP + PA?",
+            "PI + PB + FP + PA?",
+            "PI + Señal + FP + PB + PA + OBJ?"
+        ],
+        "practices": [
+            {
+                "line": "How do you feel?",
+                "type": "q"
+            },
+            {
+                "line": "I am fine.",
+                "type": "r"
+            },
+            {
+                "line": "How is it?",
+                "type": "q"
+            },
+            {
+                "line": "It's blue.",
+                "type": "r"
+            },
+            {
+                "line": "How is he learning English?",
+                "type": "q"
+            },
+            {
+                "line": "Quickly.",
+                "type": "r"
+            },
+            {
+                "line": "How do you arrive to Chile?",
+                "type": "q"
+            },
+            {
+                "line": "I arrive by airplane.",
+                "type": "r"
+            },
+            {
+                "line": "How will she arrive at the university?",
+                "type": "q"
+            },
+            {
+                "line": "She will arrive by subway.",
+                "type": "r"
+            },
+            {
+                "line": "How does she dance?",
+                "type": "q"
+            },
+            {
+                "line": "She dance correctly.",
+                "type": "r"
+            },
+            {
+                "line": "How can i dance?",
+                "type": "q"
+            },
+            {
+                "line": "I must practice a lot.",
+                "type": "r"
+            },
+            {
+                "line": "How will you write the book?",
+                "type": "q"
+            },
+            {
+                "line": "I will write the book slowly/carefully.",
+                "type": "r"
+            },
+            {
+                "line": "How does he have to sing the song?",
+                "type": "q"
+            },
+            {
+                "line": "Softly it.",
+                "type": "r"
+            }
+        ]
+    },
+    "How much": {
+        "constructions": [
+            "PI + Señal + FP + PA?",
+            "PI + PB + FP + PA?",
+            "PI + OBJ + PB + FP + PA?",
+            "PI + OBJ + Señal + PB + FP + PA?"
+        ],
+        "practices": [
+            {
+                "line": "How many tables is at the office?",
+                "type": "q"
+            },
+            {
+                "line": "How much dose he earn?",
+                "type": "q"
+            },
+            {
+                "line": "He earns a lot.",
+                "type": "r"
+            },
+            {
+                "line": "How much water can you drink today?",
+                "type": "q"
+            },
+            {
+                "line": "two liters it.",
+                "type": "r"
+            },
+            {
+                "line": "How much water does she have to drink today?",
+                "type": "q"
+            },
+            {
+                "line": "She has to drink a lot.",
+                "type": "r"
+            },
+            {
+                "line": "How much weight do you need to lose?",
+                "type": "q"
+            },
+            {
+                "line": "I need to lose 30 kilogram.",
+                "type": "r"
+            },
+            {
+                "line": "How much time must you arrive to office?",
+                "type": "q"
+            },
+            {
+                "line": "At 9 o'clock.",
+                "type": "r"
+            }
+        ]
+    },
+    "How many": {
+        "constructions": [
+            "PI + Señal + FP + PA?",
+            "PI + PB + FP + PA?",
+            "PI + OBJ + PB + FP + PA?",
+            "PI + OBJ + Señal + PB + FP + PA?"
+        ],
+        "practices": [
+            {
+                "line": "How many do you use?",
+                "type": "q"
+            },
+            {
+                "line": "I use many.",
+                "type": "r"
+            },
+            {
+                "line": "How many rooms does the hotel have?",
+                "type": "q"
+            },
+            {
+                "line": "It has ten rooms.",
+                "type": "r"
+            },
+            {
+                "line": "How many kids does she have?",
+                "type": "q"
+            },
+            {
+                "line": "she has three kids.",
+                "type": "r"
+            },
+            {
+                "line": "How many cups of coffee do you drink per day?",
+                "type": "q"
+            },
+            {
+                "line": "I drink three cups per day.",
+                "type": "r"
+            }
+        ]
+    },
+
+    "Which": {
+        "constructions": [
+            "PI + OBJ + Señal + FP + PA?",
+            "PI + Señal + FP + PA?",
+            "PI + OBJ + Señal + FP + PB + PA?"
+        ],
+        "resources": [
+            "This (one) = este/esta",
+            "That (one) = ese/esa",
+            "These = estos/estas",
+            "Those = esos/esas"
+        ],
+        "practices": [
+            {
+                "line": "Which man do you help?",
+                "type": "q"
+            },
+            {
+                "line": "Which men do you help?",
+                "type": "q"
+            },
+            {
+                "line": "Which one do they buy?",
+                "type": "q"
+            },
+            {
+                "line": "They buy the big one.",
+                "type": "r"
+            },
+            {
+                "line": "Which windows do you need to clean?",
+                "type": "q"
+            },
+            {
+                "line": "I need to clean the big windows.",
+                "type": "r"
+            },
+            {
+                "line": "I need to clean the big ones.",
+                "type": "r"
+            },
+            {
+                "line": "Which chicken do you have to roast?",
+                "type": "q"
+            },
+            {
+                "line": "I have to roast the small chiken.",
+                "type": "r"
+            },
+            {
+                "line": "I have to roast the small one.",
+                "type": "r"
+            },
+            {
+                "line": "Which car do you have to buy?",
+                "type": "q"
+            },
+            {
+                "line": "I have to buy a big car.",
+                "type": "r"
+            },
+            {
+                "line": "Which house will you visit tomorrow?",
+                "type": "q"
+            },
+            {
+                "line": "I will visite my neighbour's house.",
+                "type": "r"
+            },
+            {
+                "line": "Which flower must you buy?",
+                "type": "q"
+            },
+            {
+                "line": "I must buy sunflowers.",
+                "type": "r"
+            }
+        ]
+    },
+    "Who": {
+        "constructions": [],
+        "practices": [
+            {
+                "line": "Who beer do you favorite?",
+                "type": "q"
+            },
+            {
+                "line": "Who is your favorite beer?",
+                "type": "q"
+            },
+            {
+                "line": "Who is he?",
+                "type": "q"
+            },
+            {
+                "line": "He si my brother.",
+                "type": "r"
+            }
+        ]
+    },
+    "Why": {
+        "constructions": [],
+        "practices": [
+            {
+                "line": "Why are she anxious?",
+                "type": "q"
+            },
+            {
+                "line": "I don't know.",
+                "type": "r"
+            },
+            {
+                "line": "Why do i must pay this purchase?",
+                "type": "q"
+            }
+        ]
+    }
+}

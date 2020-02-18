@@ -6,12 +6,27 @@
             "P/Aux + FP + OBJ?"
         ],
         "practices": [
-            "It is a knife.",
-            "It is not flower.",
-            "It is not John.",
-            "Is it a flower?",
-            "Are they flowers?",
-            "Is it John?"
+            {
+                "line": "It is a knife."
+            },
+            {
+                "line": "It is not flower."
+            },
+            {
+                "line": "It is not John."
+            },
+            {
+                "line": "Is it a flower?",
+                "type": "q"
+            },
+            {
+                "line": "Are they flowers?",
+                "type": "q"
+            },
+            {
+                "line": "Is it John?",
+                "type": "q"
+            }
         ]
     },
     "What is it?": {
@@ -21,14 +36,38 @@
             "Señal + OBJ + PB + PA?"
         ],
         "practices": [
-            "What are they?",
-            "They are dogs.",
-            "What is it?",
-            "It is a car.",
-            "Does the child have to sleep?",
-            "Yes, it has to sleep.",
-            "Do you need the car?",
-            "Yes, i need it."
+            {
+                "line": "What are they?",
+                "type": "q"
+            },
+            {
+                "line": "They are dogs.",
+                "type": "r"
+            },
+            {
+                "line": "What is it?",
+                "type": "q"
+            },
+            {
+                "line": "It is a car.",
+                "type": "r"
+            },
+            {
+                "line": "Does the child have to sleep?",
+                "type": "q"
+            },
+            {
+                "line": "Yes, it has to sleep.",
+                "type": "r"
+            },
+            {
+                "line": "Do you need the car?",
+                "type": "q"
+            },
+            {
+                "line": "Yes, i need it.",
+                "type": "r"
+            }
         ]
     },
     "Where": {

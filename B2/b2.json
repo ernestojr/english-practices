@@ -324,7 +324,6 @@
             }
         ]
     },
-
     "Which": {
         "constructions": [
             "PI + OBJ + Señal + FP + PA?",
@@ -405,7 +404,20 @@
         ]
     },
     "Who": {
-        "constructions": [],
+        "constructions": [
+            "PI + Señal + FP + PA?",
+            "",
+            ""
+        ],
+        "resources": [
+            "me: yo/a mí",
+            "you: usted/ustedes",
+            "him: él/a él",
+            "her: ella/a ella",
+            "us: nosotr@s/a nosotr@s",
+            "you: ustedes/a ustedes/les/los/las",
+            "them: ellos/ellas/a ellos/a ellas/les/los/las"
+        ],
         "practices": [
             {
                 "line": "Who beer do you favorite?",
